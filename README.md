@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishithaJaligam
 - 👀 I’m interested in creating webpages
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently working on react 
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me jaligamrishitha@gmail.com
 
